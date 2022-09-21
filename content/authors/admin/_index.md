@@ -18,6 +18,5 @@ social:
     link: https://www.linkedin.com/in/tinghan-ye/
     icon: linkedin
     icon_pack: fab
-organizations:
-  - name: C
+organizations: []
 ---
