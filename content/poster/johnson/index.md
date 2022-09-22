@@ -40,7 +40,7 @@ title: Scheduling for Cornell Registrar
 #     name: Follow
 #     url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: 'uploads/scheduling_poster.pdf'
+url_poster: 'uploads/scheduling_poster.pdf'
 url_slides: ''
 url_video: ''
 

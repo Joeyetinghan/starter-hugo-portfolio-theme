@@ -43,7 +43,7 @@ abstract: "A taxi routing problem can be solved via bipartite matching, where a
 #     name: Follow
 #     url: https://twitter.com/georgecushen
 url_code: ''
-url_pdf: 'uploads/taxi_poster.pdf'
+url_poster: 'uploads/taxi_poster.pdf'
 url_slides: ''
 url_video: ''
 
