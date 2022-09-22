@@ -16,11 +16,13 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: I am a senior majoring in Operations Research and Engineering at Cornell. Planning to pursue a Ph.D. in Operations Research related fields, I am passionate about applying optimization and simulation methods to inform decision-makings that benefit the society.
 
-# # Interests to show in About widget
-# interests:
-#   - Artificial Intelligence
-#   - Computational Linguistics
-#   - Information Retrieval
+# Interests to show in About widget
+interests:
+  - Combinatorial Optimization
+  - Stochastic Optimization
+  - Data Analytic
+  - Simulation Modeling
+  - Transportation and Energy System
 
 # Education to show in About widget
 education:
