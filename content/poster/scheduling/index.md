@@ -8,5 +8,4 @@ summary: "A taxi routing problem can be solved via bipartite matching, where a
 tags: []
 external_link: ""
 links: []
-url_: "taxi_poster.pdf"
 ---
