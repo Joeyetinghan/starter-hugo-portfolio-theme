@@ -1,5 +1,5 @@
 ---
-title: Final Exam Scheduling
+title: Scheduling for Cornell Registrar
 
 # event: Wowchemy Conference
 # event_url: https://example.org

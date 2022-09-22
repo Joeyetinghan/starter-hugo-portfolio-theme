@@ -1,5 +1,5 @@
 ---
-title: Scheduling for Cornell Registrar
+title: Museum Artwork and Philanthropy Data Analytics
 
 # event: Wowchemy Conference
 # event_url: https://example.org
@@ -40,7 +40,7 @@ title: Scheduling for Cornell Registrar
 #     name: Follow
 #     url: https://twitter.com/georgecushen
 url_code: ''
-url_poster: 'uploads/scheduling_poster.pdf'
+url_poster: 'uploads/Johnson_poster.pdf'
 url_slides: ''
 url_video: ''
 
