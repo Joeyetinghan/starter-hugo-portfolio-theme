@@ -6,21 +6,21 @@ title: Tinghan (Joe) Ye
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+# role: Professor of Artificial Intelligence
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Cornell University
+    # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
 bio: I am a senior majoring in Operations Research and Engineering at Cornell. Planning to pursue a Ph.D. in Operations Research related fields, I am passionate about applying optimization and simulation methods to inform decision-makings that benefit the society.
 
-# Interests to show in About widget
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+# # Interests to show in About widget
+# interests:
+#   - Artificial Intelligence
+#   - Computational Linguistics
+#   - Information Retrieval
 
 # Education to show in About widget
 education:
@@ -31,9 +31,12 @@ education:
     # - course: MEng in Artificial Intelligence
     #   institution: Massachusetts Institute of Technology
     #   year: 2009
-    - course: BSc in Operations Research and Engineering (_Honors_)
+    - course: BSc in Operations Research and Engineering (Honors)
       institution: Cornell University
-      year: 2023
+      year: 2021-2023
+    - course: Civil and Environmental Engineering (James Scholar)
+      institution: University of Illinois at Urbana-Champaign
+      year: 2019-2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -43,15 +46,15 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  - icon: twitter
-    icon_pack: fab
-    link: https://twitter.com/GeorgeCushen
-  - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
-    icon_pack: fas
-    link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  # - icon: twitters
+  #   icon_pack: fab
+  #   link: https://twitter.com/GeorgeCushen
+  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
+  #   icon_pack: fas
+  #   link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
-    link: https://github.com/gcushen
+    link: https://github.com/Joeyetinghan
   - icon: linkedin
     icon_pack: fab
     link: https://www.linkedin.com/
@@ -64,12 +67,12 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ''
+email: 'ty357@cornell.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-👋 I'm **Joe**, a senior studying Operations Research at Cornell University.
+👋 I am a senior majoring in Operations Research and Engineering at Cornell. Planning to pursue a Ph.D. in Operations Research related fields, I am passionate about applying optimization and simulation methods to inform decision-makings that benefit the society.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
