@@ -1,8 +1,11 @@
 ---
-title: Cartoon Face Generator
-summary: Write about your project here...
-tags:
-  - CV
-date: 2022-01-01
-external_link: http://github.com
+title: Taxi Routing Optimization
+date: 2022-09-22T01:04:05.220Z
+summary: "A taxi routing problem can be solved via bipartite matching, where a
+  maximum cardinality matching corresponds to the minimum number of taxis needed
+  to cover all trips.  We prove a min-max theorem: the maximum number of
+  pairwise incompatible trips equals the minimum number of taxis needed."
+tags: []
+external_link: ""
+links: []
 ---
