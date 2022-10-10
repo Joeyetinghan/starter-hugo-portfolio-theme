@@ -19,8 +19,8 @@ bio:
 # Interests to show in About widget
 interests:
   - Optimization
-  - Data Analytic
   - Simulation Modeling
+  - Data Analytic
   - Transportation and Energy Systems
   - Supply Chain Systems
 
