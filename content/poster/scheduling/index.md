@@ -59,4 +59,4 @@ url_video: ''
 # projects:
 #   - example
 ---
-We are working with Cornell Registar and Engineering Advising to design optimization models that facilite exam schedulings and freshmen engineering seminar schedulings.
+We are working with Cornell Registar and Engineering Advising to design optimization models that facilitate exam schedulings and freshmen engineering seminar schedulings.
