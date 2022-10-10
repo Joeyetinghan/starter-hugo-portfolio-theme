@@ -14,7 +14,7 @@ organizations:
     # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: I am a senior majoring in Operations Research and Engineering at Cornell. Planning to pursue a Ph.D. in Operations Research related fields, I am passionate about applying optimization and simulation methods to inform decision-makings that benefit the society.
+bio: 
 
 # Interests to show in About widget
 interests:

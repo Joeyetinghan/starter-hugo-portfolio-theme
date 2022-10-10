@@ -17,7 +17,7 @@ title: SimOpt - A library of simulation optimization problems and solvers
 
 # # Talk start and end times.
 # #   End time can optionally be hidden by prefixing the line with `#`.
-# date: '2030-06-01T13:00:00Z'
+date: '2030-06-01T16:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 # all_day: false
 
@@ -59,4 +59,4 @@ url_video: ''
 # projects:
 #   - example
 ---
-SimOpt is a testbed of simulation-optimization algorithms. I was responsible for coding up test problems and implementing algorithms. My recent work is focusing on designing a projected gradient solver that addresses problems with linear constraints.
+SimOpt is a testbed of simulation-optimization algorithms. I was responsible for coding up test problems, such as a COVID-19 testing frequency problem and a emergency medical volunteer response problem, and implementing algorithms, such as STRONG and ADAM. My recent work is focusing on designing a projected gradient solver that addresses problems with linear constraints.
