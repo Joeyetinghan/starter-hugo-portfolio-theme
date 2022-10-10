@@ -1,5 +1,5 @@
 ---
-title: Regional Disparities of Electric Vehicle Marginal Emissions}{May 2020 - Oct. 2021
+title: Regional Disparities of Electric Vehicle Marginal Emissions
 
 # event: Wowchemy Conference
 # event_url: https://example.org
@@ -12,7 +12,7 @@ title: Regional Disparities of Electric Vehicle Marginal Emissions}{May 2020 - O
 #   postcode: '94305'
 #   country: United States
 
-summary: Published in Journal of Advanced Management Science, June 2022s
+summary: Published in Journal of Advanced Management Science, June 2022
 # abstract: "A taxi routing problem can be solved via bipartite matching, where a
 #   maximum cardinality matching corresponds to the minimum number of taxis needed
 #   to cover all trips. We prove a min-max theorem: the maximum number of
