@@ -75,6 +75,6 @@ email: 'ty357@cornell.edu'
 highlight_name: true
 ---
 
-👋 I am a senior majoring in Operations Research and Engineering at Cornell. Planning to pursue a Ph.D. in Operations Research related fields, I am passionate about applying optimization and simulation methods to inform decision-makings that benefit the society.
+👋 I am a senior majoring in Operations Research and Engineering at Cornell. Planning to pursue a Ph.D. in fields related to Operations Research, I am passionate about applying optimization and simulation methods to inform decision-makings that benefit the society.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
