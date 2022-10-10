@@ -17,7 +17,7 @@ title: Residential EV Charging Management
 
 # # Talk start and end times.
 # #   End time can ptionally be hidden by prefixing the line with `#`.
-date: '2020-06-01T14o:00:00Z'
+date: '2020-06-01T14:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 # all_day: false
 
