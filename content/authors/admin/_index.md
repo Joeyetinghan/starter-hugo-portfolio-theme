@@ -20,7 +20,7 @@ bio:
 interests:
   - Optimization
   - Simulation Modeling
-  - Data Analytic
+  - Data Analytics
   - Transportation and Energy Systems
   - Supply Chain Systems
 
