@@ -59,4 +59,4 @@ url_video: ''
 # projects:
 #   - example
 ---
-We are a team of 20 that is coordinatomg with CVS contacts to design and build a discrete-event simulation model in Python that simulates the life cycles of totes (containers that move products around) in the supply chain of CVS Health. The model assesses the costs and effectiveness of implementing RFID technology in the stores and distribution centers, which can potentially address the existing tote shrinkage problem in CVS.
+We are a team of 20 that is coordinating with CVS contacts to design and build a discrete-event simulation model in Python that simulates the life cycles of totes (containers that move products around) in the supply chain of CVS Health. The model assesses the costs and effectiveness of implementing RFID technology in the stores and distribution centers, which can potentially address the existing tote shrinkage problem in CVS.
