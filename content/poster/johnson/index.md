@@ -59,3 +59,4 @@ url_video: ''
 # projects:
 #   - example
 ---
+We collaborate with contacts from the Johnson Museum of Art to revamp the museum's internal database and analyze donation information, which aims to enhance visitor engagement and increase museum donation in the long run. We are currently piloting a QR-code initiative that collects and analyzes visitor and donor information; clustering the museum's annual fund-giving data to identify key donors.

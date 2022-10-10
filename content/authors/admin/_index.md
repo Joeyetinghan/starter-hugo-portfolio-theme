@@ -18,11 +18,11 @@ bio: I am a senior majoring in Operations Research and Engineering at Cornell. P
 
 # Interests to show in About widget
 interests:
-  - Combinatorial Optimization
-  - Stochastic Optimization
+  - Optimization
   - Data Analytic
   - Simulation Modeling
-  - Transportation and Energy System
+  - Transportation and Energy Systems
+  - Supply Chain Systems
 
 # Education to show in About widget
 education:
@@ -59,7 +59,7 @@ social:
     link: https://github.com/Joeyetinghan
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/tinghanye/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/uploads/resume.pdf`, enable `ai` icons in `params.toml`,

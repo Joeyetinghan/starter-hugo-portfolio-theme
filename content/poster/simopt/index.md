@@ -59,3 +59,4 @@ url_video: ''
 # projects:
 #   - example
 ---
+SimOpt is a testbed of simulation-optimization algorithms. I was responsible for coding up test problems and implementing algorithms. My recent work is focusing on designing a projected gradient solver that addresses problems with linear constraints.

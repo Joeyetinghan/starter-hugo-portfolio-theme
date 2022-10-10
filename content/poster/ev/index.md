@@ -40,6 +40,7 @@ title: Residential EV Charging Management
 #     name: Follow
 #     url: https://twitter.com/georgecushen
 url_code: ''
+url_paper: 'https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4146797'
 url_poster: 'uploads/EV_poster.pdf'
 url_slides: ''
 url_video: ''
