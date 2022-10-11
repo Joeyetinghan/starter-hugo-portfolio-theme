@@ -77,6 +77,6 @@ highlight_name: true
 
 👋 I am a senior majoring in Operations Research and Engineering at Cornell. I have been very fortunate to be advised by Prof. [Ria Kontou](https://publish.illinois.edu/kontou/) at UIUC CEE, Prof. [David Shmoys](https://people.orie.cornell.edu/shmoys/), Prof. [Shane Henderson](https://www.orie.cornell.edu/faculty-directory/shane-g-henderson), and Prof. [David Goldberg](https://www.engineering.cornell.edu/faculty-directory/david-alan-goldberg) at Cornell ORIE.
 
-Planning to pursue a Ph.D. in fields related to Operations Research, I am passionate about applying optimization and simulation methods to inform decision-makings that benefit the society.
+Planning to pursue a Ph.D. in fields related to Operations Research, I am passionate about applying optimization and simulation methods to inform decision-makings that benefit our society.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
