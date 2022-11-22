@@ -40,7 +40,8 @@ date: '2020-06-01T18:00:00Z'
 #     name: Follow
 #     url: https://twitter.com/georgecushen
 url_code: ''
-url_poster: 'uploads/scheduling_poster.pdf'
+url_poster1: 'uploads/scheduling_poster.pdf'
+url_poster2: 'uploads/1050_poster.pdf'
 url_slides: ''
 url_video: ''
 
@@ -59,4 +60,4 @@ url_video: ''
 # projects:
 #   - example
 ---
-We are working with Cornell Registar and Engineering Advising to design optimization models that facilitate exam schedulings and freshmen engineering seminar schedulings.
+We are working with Cornell Registar and Engineering Advising to design optimization models that facilitate final exam scheduling and freshmen engineering seminar scheduling.
