@@ -1,5 +1,5 @@
 ---
-title: Scheduling for Cornell Registrar
+title: Scheduling for Cornell Engineering Advising
 
 # event: Wowchemy Conference
 # event_url: https://example.org
@@ -40,8 +40,7 @@ date: '2020-06-01T18:00:00Z'
 #     name: Follow
 #     url: https://twitter.com/georgecushen
 url_code: ''
-url_poster: 'uploads/scheduling_poster.pdf'
-# url_poster: 'uploads/1050_poster.pdf'
+url_poster: 'uploads/1050_poster.pdf'
 url_slides: ''
 url_video: ''
 
@@ -60,4 +59,4 @@ url_video: ''
 # projects:
 #   - example
 ---
-We are working with Cornell Registar to design optimization models that facilitate final exam scheduling.
+We are working with Cornell Engineering Advising to revamp an optimization tool for the matching and scheduling of ENGRG 1050: Engineering Seminar.
