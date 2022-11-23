@@ -44,6 +44,7 @@ date: '2020-06-01T17:00:00Z'
 #     url: https://twitter.com/georgecushen
 url_code: ''
 url_poster: 'uploads/taxi_poster.pdf'
+url_pdf: 'https://arxiv.org/abs/2211.11173'
 url_slides: ''
 url_video: ''
 
