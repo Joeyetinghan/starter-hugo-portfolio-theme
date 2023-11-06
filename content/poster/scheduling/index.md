@@ -40,9 +40,9 @@ date: '2020-06-03T18:00:00Z'
 #     name: Follow
 #     url: https://twitter.com/georgecushen
 url_code: ''
+url_slides: 'uploads/ug_or_prize.pptx'
 url_poster: 'uploads/scheduling_poster.pdf'
 # url_poster: 'uploads/1050_poster.pdf'
-url_slides: 'uploads/ug_or_prize.pptx'
 url_video: ''
 
 # Markdown Slides (optional).

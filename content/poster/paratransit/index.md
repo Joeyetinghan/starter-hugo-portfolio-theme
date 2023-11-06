@@ -44,7 +44,8 @@ date: '2023-06-02T17:00:00Z'
 #     url: https://twitter.com/georgecushen
 
 links:
-  - url: https://sam.isye.gatech.edu/projects/demand-multimodal-transit-systems/savannah-project
+  - name: Website
+    url: https://sam.isye.gatech.edu/projects/demand-multimodal-transit-systems/savannah-project
 
 url_code: ''
 url_poster: ''
@@ -67,4 +68,4 @@ url_video: ''
 # projects:
 #   - example
 ---
-Working in AI4OPT with Pascal Van Hentenryck on designing efficient algorithms for an electric vehicle dial-a-ride problem and driver shift scheduling.
+Working in AI4OPT with Pascal Van Hentenryck on designing efficient algorithms for an electric vehicle dial-a-ride problem and driver shift scheduling
