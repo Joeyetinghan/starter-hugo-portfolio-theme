@@ -74,7 +74,7 @@ email: 'joe.ye@gatech.edu'
 highlight_name: true
 ---
 
-👋 I am a first-year Ph.D. student in Industrial Engineering at Georgia Tech ISyE. I am currently working in the [Socially Aware Mobility Lab](https://sam.isye.gatech.edu/) and [NSF AI Research Institute for Advances in Optimization](https://www.ai4opt.org/) (AI4OPT) with Prof. [Pascal Van Hentenryck](https://sites.gatech.edu/pascal-van-hentenryck/). My research interests lie broadly in the intersection of optimization and machine learning with a focus on applications that create real-world impact.
+👋 I am a first-year Ph.D. student in Industrial Engineering at Georgia Tech ISyE. I am currently working in the [Socially Aware Mobility Lab](https://sam.isye.gatech.edu/) and the [NSF AI Research Institute for Advances in Optimization](https://www.ai4opt.org/) (AI4OPT) with Prof. [Pascal Van Hentenryck](https://sites.gatech.edu/pascal-van-hentenryck/). My research interests lie broadly in the intersection of optimization and machine learning with a focus on applications that create real-world impact.
 
 Prior to starting my Ph.D., I was fortunate to be advised by Prof. [David Shmoys](https://people.orie.cornell.edu/shmoys/), Prof. [Shane Henderson](https://www.orie.cornell.edu/faculty-directory/shane-g-henderson), Prof. [David Goldberg](https://www.engineering.cornell.edu/faculty-directory/david-alan-goldberg), and Prof. [Ria Kontou](https://publish.illinois.edu/kontou/) during my undergraduate studies at Cornell University and University of Illinois at Urbana-Champaign.
 
