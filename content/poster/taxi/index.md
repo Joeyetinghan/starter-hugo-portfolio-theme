@@ -1,5 +1,5 @@
 ---
-title: Taxi Routing Optimization - A Minmax Theorem
+title: A Min-max Theorem for the Minimum Fleet Size Problem
 
 # event: Wowchemy Conference
 # event_url: https://example.org
@@ -20,7 +20,7 @@ abstract: "A taxi routing problem can be solved via bipartite matching, where a
 
 # # Talk start and end times.
 # #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2020-06-01T17:00:00Z'
+date: '2020-06-02T17:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 # all_day: false
 
@@ -44,7 +44,7 @@ date: '2020-06-01T17:00:00Z'
 #     url: https://twitter.com/georgecushen
 url_code: ''
 url_poster: 'uploads/taxi_poster.pdf'
-url_pdf: 'https://arxiv.org/abs/2211.11173'
+url_pdf: 'https://doi.org/10.1016/j.orl.2023.03.013'
 url_slides: ''
 url_video: ''
 

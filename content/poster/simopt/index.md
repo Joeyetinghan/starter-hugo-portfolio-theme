@@ -59,4 +59,4 @@ url_video: ''
 # projects:
 #   - example
 ---
-SimOpt is a testbed of simulation-optimization algorithms. I was responsible for coding up test problems, such as a COVID-19 testing frequency problem and a emergency medical volunteer response problem, and implementing algorithms, such as STRONG and ADAM. My recent work is focusing on designing a projected gradient solver that addresses problems with linear constraints.
+SimOpt is a testbed of simulation-optimization algorithms. I was responsible for coding up test problems, such as a COVID-19 testing frequency problem and a emergency medical volunteer response problem, and implementing algorithms, such as STRONG and ADAM. My latest work was focused on designing solvers that can tackle problems with linear constraints.

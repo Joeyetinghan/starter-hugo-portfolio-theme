@@ -10,7 +10,7 @@ superuser: true
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Cornell University
+  - name: Georgia Tech ISyE
     # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
@@ -18,11 +18,7 @@ bio:
 
 # Interests to show in About widget
 interests:
-  - Optimization
-  - Simulation Modeling
-  - Data Analytics
-  - Transportation and Energy Systems
-  - Supply Chain Systems
+  - Intersection of Machine Learning and Optimization with applications in transportation systems and supply chain
 
 # Education to show in About widget
 education:
@@ -33,12 +29,15 @@ education:
     # - course: MEng in Artificial Intelligence
     #   institution: Massachusetts Institute of Technology
     #   year: 2009
-    - course: BSc in Operations Research and Engineering (Honors)
+    - course: Ph.D. in Industrial Engineering
+      institution: Georgia Institute of Technology
+      year: 2028 (expected)
+    - course: B.S. (with Honors) in Operations Research and Engineering, summa cum laude
       institution: Cornell University
-      year: 2021-2023
-    - course: Civil and Environmental Engineering (James Scholar)
-      institution: University of Illinois at Urbana-Champaign
-      year: 2019-2021
+      year: 2023
+    # - course: Civil and Environmental Engineering (James Scholar)
+    #   institution: University of Illinois at Urbana-Champaign
+    #   year: 2019-2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
@@ -69,14 +68,12 @@ social:
 #   link: uploads/resume.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
-email: 'ty357@cornell.edu'
+email: 'joe.ye@gatech.edu'
 
 # Highlight the author in author lists? (true/false)
 highlight_name: true
 ---
 
-👋 I am a senior majoring in Operations Research and Engineering at Cornell. I have been very fortunate to be advised by Prof. [Ria Kontou](https://publish.illinois.edu/kontou/) at UIUC CEE, Prof. [David Shmoys](https://people.orie.cornell.edu/shmoys/), Prof. [Shane Henderson](https://www.orie.cornell.edu/faculty-directory/shane-g-henderson), and Prof. [David Goldberg](https://www.engineering.cornell.edu/faculty-directory/david-alan-goldberg) at Cornell ORIE.
-
-Planning to pursue a Ph.D. in fields related to Operations Research, I am passionate about applying optimization and simulation methods to inform decision-makings that benefit our society.
+👋 I am a first-year Ph.D. student in Industrial Engineering at Georgia Tech ISyE. During my undergraduate studies at UIUC and Cornell, I was fortunate to be advised by Prof. [David Shmoys](https://people.orie.cornell.edu/shmoys/), Prof. [Shane Henderson](https://www.orie.cornell.edu/faculty-directory/shane-g-henderson), Prof. [David Goldberg](https://www.engineering.cornell.edu/faculty-directory/david-alan-goldberg), and Prof. [Ria Kontou](https://publish.illinois.edu/kontou/).
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.

@@ -1,5 +1,5 @@
 ---
-title: Scheduling for Cornell Engineering Advising
+title: Scheduling for Engineering Advising - ENGRG 1050 Matching Tool
 
 # event: Wowchemy Conference
 # event_url: https://example.org
@@ -59,4 +59,4 @@ url_video: ''
 # projects:
 #   - example
 ---
-We are working with Cornell Engineering Advising to revamp an optimization tool for the matching and scheduling of ENGRG 1050: Engineering Seminar.
+I led a team of undergraduates who work directly with Cornell Engineering Advising to revamp an integer programming-based optimization tool for the matching and scheduling of ENGRG 1050: Engineering Seminar.

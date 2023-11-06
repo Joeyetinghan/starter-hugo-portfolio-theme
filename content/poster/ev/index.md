@@ -1,5 +1,5 @@
 ---
-title: Residential EV Charging Management
+title: Managed Residential Electric Vehicle Charging Minimizes Electricity Bills While Meeting Driver and Community Preferences
 
 # event: Wowchemy Conference
 # event_url: https://example.org
