@@ -42,14 +42,13 @@ date: '2023-06-02T17:00:00Z'
 #     icon_pack: fab
 #     name: Follow
 #     url: https://twitter.com/georgecushen
-
+url_pdf: 'https://arxiv.org/abs/2401.03692'
 links:
   - name: Website
     url: https://sam.isye.gatech.edu/projects/demand-multimodal-transit-systems/savannah-project
 
 url_code: ''
 url_poster: ''
-url_pdf: ''
 url_slides: ''
 url_video: ''
 
