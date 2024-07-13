@@ -1,4 +1,4 @@
----
+<!-- ---
 # An instance of the Pages widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: pages
@@ -87,4 +87,4 @@ design:
 
   # For Showcase view, flip alternate rows?
   flip_alt_rows: false
---- -->
+--- --> -->
