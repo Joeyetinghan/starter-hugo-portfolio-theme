@@ -18,7 +18,9 @@ bio:
 
 # Interests to show in About widget
 interests:
-  - Intersection of Optimization and Machine Learning with applications in transportation systems and supply chain
+  - Fusing Optimization and Machine Learning 
+  - Supply Chain
+  - Transportation
 
 # Education to show in About widget
 education:
@@ -47,10 +49,6 @@ social:
   - icon: envelope
     icon_pack: fas
     link: '/#contact'
-  # - icon: twitters
-  #   icon_pack: fab
-  #   link: https://twitter.com/GeorgeCushen
-  # - icon: graduation-cap # Alternatively, use `google-scholar` icon from `ai` icon pack
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/citations?user=NRKOiiUAAAAJ&hl=en
@@ -75,8 +73,8 @@ email: 'joe.ye@gatech.edu'
 highlight_name: true
 ---
 
-👋 I am a first-year Ph.D. student in Industrial Engineering at Georgia Tech ISyE. I am currently working in the [Socially Aware Mobility Lab](https://sam.isye.gatech.edu/) and the [NSF AI Research Institute for Advances in Optimization](https://www.ai4opt.org/) (AI4OPT) with Prof. [Pascal Van Hentenryck](https://sites.gatech.edu/pascal-van-hentenryck/). My research interests lie broadly in the intersection of optimization and machine learning with a focus on applications that create real-world impact.
+I am a first-year Ph.D. student in Industrial Engineering at Georgia Tech ISyE. I am currently working in the [Socially Aware Mobility Lab](https://sam.isye.gatech.edu/) and the [NSF AI Research Institute for Advances in Optimization](https://www.ai4opt.org/) (AI4OPT) under the guidance of Prof. [Pascal Van Hentenryck](https://sites.gatech.edu/pascal-van-hentenryck/). My research interests lie at the intersection of optimization and machine learning, with a particular focus on applications that drive real-world impact.
 
-Prior to starting my Ph.D., I was fortunate to be advised by Prof. [David Shmoys](https://people.orie.cornell.edu/shmoys/), Prof. [Shane Henderson](https://www.orie.cornell.edu/faculty-directory/shane-g-henderson), Prof. [David Goldberg](https://www.engineering.cornell.edu/faculty-directory/david-alan-goldberg), and Prof. [Eleftheria Kontou](https://publish.illinois.edu/kontou/) during my undergraduate studies at Cornell University and University of Illinois at Urbana-Champaign.
+Prior to starting my Ph.D., I was fortunate to be advised by Prof. [David Shmoys](https://people.orie.cornell.edu/shmoys/), Prof. [Shane Henderson](https://www.orie.cornell.edu/faculty-directory/shane-g-henderson), Prof. [David Goldberg](https://www.engineering.cornell.edu/faculty-directory/david-alan-goldberg), and Prof. [Eleftheria Kontou](https://publish.illinois.edu/kontou/) during my undergraduate studies at Cornell University and the University of Illinois at Urbana-Champaign.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
