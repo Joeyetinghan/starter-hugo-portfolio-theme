@@ -1,5 +1,5 @@
 ---
-title: Data-driven Order Sourcing
+title: Data-Driven Order Sourcing
 
 # event: Wowchemy Conference
 # event_url: https://example.org
