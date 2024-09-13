@@ -42,6 +42,7 @@ date: '2022-01-01T00:00:00Z'
 url_code: ''
 url_slides: 'uploads/ug_or_prize.pptx'
 url_poster: 'uploads/scheduling_poster.pdf'
+url_pdf: 'https://arxiv.org/abs/2409.04959'
 # url_poster: 'uploads/1050_poster.pdf'
 url_video: ''
 
