@@ -39,6 +39,7 @@ date: '2021-01-01T00:00:00Z'
 #     icon_pack: fab
 #     name: Follow
 #     url: https://twitter.com/georgecushen
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/10838622'
 url_code: 'https://github.com/simopt-admin/simopt/wiki'
 url_poster: 'uploads/simopt_poster.pdf'
 url_slides: ''
