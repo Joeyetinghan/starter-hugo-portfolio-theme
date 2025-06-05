@@ -14,7 +14,7 @@ subtitle:
 
 content:
   # Page type to display. E.g. post, event, publication...
-  page_type: poster
+  page_type: projects
   # Choose how many pages you would like to display (0 = all pages)
   count: 0
   # Filter on criteria

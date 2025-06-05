@@ -1,5 +1,5 @@
 ---
-title: Regional Disparities of Electric Vehicle Marginal Emissions
+title: Conformal Predictive Distributions for Order Fulfillment Time Forecasting
 
 # event: Wowchemy Conference
 # event_url: https://example.org
@@ -12,7 +12,7 @@ title: Regional Disparities of Electric Vehicle Marginal Emissions
 #   postcode: '94305'
 #   country: United States
 
-summary: Published in Journal of Advanced Management Science, June 2022
+# summary: An example talk using Wowchemy's Markdown slides feature.
 # abstract: "A taxi routing problem can be solved via bipartite matching, where a
 #   maximum cardinality matching corresponds to the minimum number of taxis needed
 #   to cover all trips. We prove a min-max theorem: the maximum number of
@@ -20,7 +20,7 @@ summary: Published in Journal of Advanced Management Science, June 2022
 
 # # Talk start and end times.
 # #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2020-06-01T10:00:00Z'
+date: '2025-01-01T00:00:00Z'
 # date_end: '2030-06-01T15:00:00Z'
 # all_day: false
 
@@ -42,10 +42,16 @@ date: '2020-06-01T10:00:00Z'
 #     icon_pack: fab
 #     name: Follow
 #     url: https://twitter.com/georgecushen
+# url_pdf: 'https://arxiv.org/abs/2401.03692'
+# links:
+#   - name: Website
+#     url: https://sam.isye.gatech.edu/projects/demand-multimodal-transit-systems/savannah-project
+
 url_code: ''
-url_pdf: 'http://www.joams.com/index.php?m=content&c=index&a=show&catid=91&id=556'
+url_poster: ''
 url_slides: ''
 url_video: ''
+url_pdf: 'https://arxiv.org/pdf/2505.17340'
 
 # Markdown Slides (optional).
 #   Associate this talk with Markdown slides.
@@ -62,4 +68,11 @@ url_video: ''
 # projects:
 #   - example
 ---
-Recent years have witnessed a surge in Electric Vehicle (EV) sales in China due to a combination of reasons ranging from government incentives in purchasing (subsidies, tax cuts, etc.), lowered costs of EVs, as well as an increase in environmental awareness among Chinese citizens. This paper intends to uncover the regional disparities in EV cars’ marginal emissions in China. Using data from 2010 through 2017, with a focus on carbon dioxide (CO2), we find substantial variation in metric tons of CO2 emissions per EV sold among geographic regions in China (denoted as marginal emissions of EV). We define the term “e_ratio” as the ratio of electricity consumption over electricity generation. A region with a high e_ratio indicates that its electricity generation is larger than its electricity consumption. We find that in provinces with the highest e_ratio, 1% increase in the sales of EVs results in a 0.105% decrease in CO2 emission from the electric power industry (10% significance); 1% increase in the sales of Battery EVs (BEVs) is related to 0.12% decrease in CO2 emissions from the electric power industry (10% significance). In comparison, the effect of additional EV sales on reducing CO2 emission is not significant in provinces with the lowest e_ratio.
+Accurate estimation of order fulfillment time is critical for e-commerce logistics, yet traditional rulebased approaches often fail to capture the inherent uncertainties in delivery operations. This paper introduces a novel
+framework for distributional forecasting of order fulfillment time, leveraging Conformal Predictive Systems and
+Cross Venn-Abers Predictors—model-agnostic techniques that provide rigorous coverage or validity guarantees.
+The proposed machine learning methods integrate granular spatiotemporal features, capturing fulfillment location
+and carrier performance dynamics to enhance predictive accuracy. Additionally, a cost-sensitive decision rule is
+developed to convert probabilistic forecasts into reliable point predictions. Experimental evaluation on a largescale industrial dataset demonstrates that the proposed methods generate competitive distributional forecasts, while
+machine learning-based point predictions significantly outperform the existing rule-based system—achieving up to
+14% higher prediction accuracy and up to 75% improvement in identifying late deliveries.
