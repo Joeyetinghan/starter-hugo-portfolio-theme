@@ -14,7 +14,7 @@ organizations:
     # url: https://www.stanford.edu/
 
 # Short bio (displayed in user profile at end of posts)
-bio: 
+bio: Ph.D. student in Industrial Engineering at Georgia Tech, researching optimization and machine learning for transportation and logistics.
 
 # Interests to show in About widget
 interests:
@@ -74,7 +74,7 @@ email: 'joe.ye@gatech.edu'
 highlight_name: true
 ---
 
-I am a third-year Ph.D. student in Industrial Engineering at Georgia Tech ISyE, advised by Prof. [Pascal Van Hentenryck](https://sites.gatech.edu/pascal-van-hentenryck/). My research interests lie at the intersection of optimization and machine learning, with a particular focus on applications that drive real-world impact in transportation and logistics. My recent work explores contextual stochastic optimization, decision-focused learning, conformal prediction, and Large Language Models for mixed-integer programming.
+I am a third-year Ph.D. student in Industrial Engineering at Georgia Tech ISyE, advised by Prof. [Pascal Van Hentenryck](https://sites.gatech.edu/pascal-van-hentenryck/). My research interests lie at the intersection of optimization and machine learning, with a particular focus on applications that drive real-world impact in transportation and logistics. My recent work explores contextual stochastic optimization, sequential decision-making, decision-focused learning, conformal prediction, and Large Language Models for optimization.
 
 Prior to starting my Ph.D., I was fortunate to be advised by Prof. [David Shmoys](https://people.orie.cornell.edu/shmoys/), Prof. [Shane Henderson](https://www.orie.cornell.edu/faculty-directory/shane-g-henderson), Prof. [David Goldberg](https://www.engineering.cornell.edu/faculty-directory/david-alan-goldberg), and Prof. [Eleftheria Kontou](https://publish.illinois.edu/kontou/) during my undergraduate studies at Cornell University and the University of Illinois at Urbana-Champaign.
 
