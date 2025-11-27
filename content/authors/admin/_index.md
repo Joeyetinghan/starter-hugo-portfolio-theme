@@ -74,8 +74,16 @@ email: 'joe.ye@gatech.edu'
 highlight_name: true
 ---
 
-I am a third-year Ph.D. student in Industrial Engineering at Georgia Tech ISyE, advised by Prof. [Pascal Van Hentenryck](https://sites.gatech.edu/pascal-van-hentenryck/). My research interests lie at the intersection of optimization and machine learning, with a particular focus on applications that drive real-world impact in transportation and logistics. My recent work explores contextual stochastic optimization, sequential decision-making, decision-focused learning, conformal prediction, and Large Language Models for optimization.
+I am a third-year Ph.D. student in Industrial Engineering at Georgia Tech ISyE, advised by Prof. [Pascal Van Hentenryck](https://sites.gatech.edu/pascal-van-hentenryck/). My research interests lie at the intersection of optimization and machine learning, with a particular focus on applications that drive real-world impact in logistics and transportation. 
 
-Prior to starting my Ph.D., I was fortunate to be advised by Prof. [David Shmoys](https://people.orie.cornell.edu/shmoys/), Prof. [Shane Henderson](https://www.orie.cornell.edu/faculty-directory/shane-g-henderson), Prof. [David Goldberg](https://www.engineering.cornell.edu/faculty-directory/david-alan-goldberg), and Prof. [Eleftheria Kontou](https://publish.illinois.edu/kontou/) during my undergraduate studies at Cornell University and the University of Illinois at Urbana-Champaign.
+My work focuses on Large-Scale Decision-Making Under Uncertainty across two primary directions:
+
+  • Learning to Accelerate Optimization: Leveraging machine learning to speed up large-scale solvers through ML-guided heuristics and end-to-end learning using "optimization proxies".
+
+  • Contextual Optimization: Utilizing contextual information to improve optimization outcomes via contextual stochastic optimization, decision-focused learning, and conformal prediction.
+
+Most recently, I have expanded my research to explore the intersection of Large Language Models (LLMs) and Operations Research for decision support systems.
+
+<!-- Prior to starting my Ph.D., I was fortunate to be advised by Prof. [David Shmoys](https://people.orie.cornell.edu/shmoys/), Prof. [Shane Henderson](https://www.orie.cornell.edu/faculty-directory/shane-g-henderson), Prof. [David Goldberg](https://www.engineering.cornell.edu/faculty-directory/david-alan-goldberg), and Prof. [Eleftheria Kontou](https://publish.illinois.edu/kontou/) during my undergraduate studies at Cornell University and the University of Illinois at Urbana-Champaign. -->
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/resume.pdf" "newtab" >}}CV{{< /staticref >}}.
