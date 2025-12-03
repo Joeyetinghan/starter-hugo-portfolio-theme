@@ -14,7 +14,7 @@ abstract: ''
 summary: ''
 tags: []
 featured: false
-url_pdf: ''
+url_pdf: 'https://pubsonline.informs.org/doi/10.1287/msom.2024.1328'
 url_code: ''
 url_dataset: ''
 url_poster: ''

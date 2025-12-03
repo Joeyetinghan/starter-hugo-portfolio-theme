@@ -13,7 +13,7 @@ abstract: ''
 summary: ''
 tags: []
 featured: false
-url_pdf: ''
+url_pdf: 'https://doi.org/10.1016/j.tranpol.2024.01.022'
 url_code: ''
 url_dataset: ''
 url_poster: ''

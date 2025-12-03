@@ -15,7 +15,7 @@ abstract: ''
 summary: ''
 tags: []
 featured: false
-url_pdf: ''
+url_pdf: 'https://ieeexplore.ieee.org/abstract/document/10838622/?casa_token=_pEgKu-KXWUAAAAA:UN1McFZl1XC02N36pyni9QMDVp2K1-UoHb1nsRYEXr-u4ExKwbrmCj6Q2X9t2NFrr6WKQGaR5g'
 url_code: ''
 url_dataset: ''
 url_poster: ''

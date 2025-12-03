@@ -14,7 +14,7 @@ abstract: ''
 summary: ''
 tags: []
 featured: false
-url_pdf: ''
+url_pdf: 'https://doi.org/10.1016/j.tre.2025.104281'
 url_code: ''
 url_dataset: ''
 url_poster: ''

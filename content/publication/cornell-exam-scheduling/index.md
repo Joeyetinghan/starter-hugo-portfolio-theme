@@ -15,7 +15,7 @@ abstract: ''
 summary: ''
 tags: []
 featured: false
-url_pdf: ''
+url_pdf: 'https://pubsonline.informs.org/doi/abs/10.1287/inte.2024.0165'
 url_code: ''
 url_dataset: ''
 url_poster: ''
