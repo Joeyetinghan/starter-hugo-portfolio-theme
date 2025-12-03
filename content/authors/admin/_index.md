@@ -16,31 +16,31 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: Ph.D. student at Georgia Tech ISyE, researching ML/LLM + optimization.
 
-# # Interests to show in About widget
-# interests:
-#   - Optimization
-#   - Machine Learning 
-#   - Supply Chain
-#   - Transportation
+# Interests to show in About widget
+interests:
+  - Optimization
+  - Machine Learning 
+  - Supply Chain
+  - Transportation
 
-# # Education to show in About widget
-# education:
-#   courses:
-#     # - course: PhD in Artificial Intelligence
-#     #   institution: Stanford University
-#     #   year: 2012
-#     # - course: MEng in Artificial Intelligence
-#     #   institution: Massachusetts Institute of Technology
-#     #   year: 2009
-#     - course: Ph.D. in Industrial Engineering
-#       institution: Georgia Institute of Technology
-#       year: 2028 (expected)
-#     - course: B.S. (with Honors) in Operations Research and Engineering, summa cum laude
-#       institution: Cornell University
-#       year: 2023
-#     # - course: Civil and Environmental Engineering (James Scholar)
-#     #   institution: University of Illinois at Urbana-Champaign
-#     #   year: 2019-2021
+# Education to show in About widget
+education:
+  courses:
+    # - course: PhD in Artificial Intelligence
+    #   institution: Stanford University
+    #   year: 2012
+    # - course: MEng in Artificial Intelligence
+    #   institution: Massachusetts Institute of Technology
+    #   year: 2009
+    - course: Ph.D. in Industrial Engineering
+      institution: Georgia Institute of Technology
+      year: 2028 (expected)
+    - course: B.S. (with Honors) in Operations Research and Engineering, summa cum laude
+      institution: Cornell University
+      year: 2023
+    # - course: Civil and Environmental Engineering (James Scholar)
+    #   institution: University of Illinois at Urbana-Champaign
+    #   year: 2019-2021
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
