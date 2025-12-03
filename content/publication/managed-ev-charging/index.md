@@ -21,7 +21,8 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-projects: []
+projects:
+  - ev
 slides: ''
 ---
-We analyze smart-charging strategies that respect individual drivers while reducing system costs.
+

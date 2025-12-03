@@ -9,7 +9,7 @@ date: '2025-01-01T00:00:00Z'
 publishDate: '2025-01-01T00:00:00Z'
 publication_types: ['2']
 publication: 'Manufacturing & Service Operations Management'
-publication_short: 'MSOM'
+publication_short: 'M&SOM'
 abstract: ''
 summary: ''
 tags: []
@@ -22,7 +22,7 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-projects: []
+projects:
+  - cso
 slides: ''
 ---
-We propose a contextual stochastic program that chooses couriers while accounting for delivery-time risk.

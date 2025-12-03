@@ -26,4 +26,3 @@ url_video: ''
 projects: []
 slides: ''
 ---
-We design a real-time, uncertainty-aware order-fulfillment policy that uses deep learning to drive contextual stochastic optimization at NeurIPS 2025 MLxOR.

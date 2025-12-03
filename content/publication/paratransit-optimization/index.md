@@ -25,4 +25,3 @@ url_video: ''
 projects: []
 slides: ''
 ---
-We showcase a constraint-programming engine for regional paratransit planning in Savannah, Georgia.

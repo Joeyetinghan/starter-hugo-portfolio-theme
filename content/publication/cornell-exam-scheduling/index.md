@@ -10,7 +10,7 @@ date: '2025-01-01T00:00:00Z'
 publishDate: '2025-01-01T00:00:00Z'
 publication_types: ['2']
 publication: 'INFORMS Journal on Applied Analytics'
-publication_short: 'IJAA'
+publication_short: 'INFORMS Journal on Applied Analytics'
 abstract: ''
 summary: ''
 tags: []
@@ -23,7 +23,7 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-projects: []
+projects:
+  - scheduling
 slides: ''
 ---
-We describe how Cornell deploys integer programming to coordinate campus-wide exam timetables.

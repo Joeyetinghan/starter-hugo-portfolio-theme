@@ -9,7 +9,7 @@ date: '2025-01-01T00:00:00Z'
 publishDate: '2025-01-01T00:00:00Z'
 publication_types: ['2']
 publication: 'Transportation Research Part E: Logistics and Transportation Review'
-publication_short: 'TRE'
+publication_short: 'Transportation Research Part E'
 abstract: ''
 summary: ''
 tags: []
@@ -22,7 +22,8 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-projects: []
+projects:
+  - paratransit
 slides: ''
 ---
-We integrate learned pricing models into large-scale column generation for integrated mobility planning.
+

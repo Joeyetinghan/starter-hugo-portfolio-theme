@@ -8,7 +8,7 @@ date: '2025-01-01T00:00:00Z'
 publishDate: '2025-01-01T00:00:00Z'
 publication_types: ['1']
 publication: 'International Conference on Computational Logistics'
-publication_short: 'ICCL'
+publication_short: 'International Conference on Computational Logistics'
 abstract: ''
 summary: ''
 tags: []
@@ -21,7 +21,7 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-projects: []
 slides: ''
+projects:
+  - conformal
 ---
-We develop conformal predictive distributions to quantify delivery-time uncertainty in omnichannel fulfillment.

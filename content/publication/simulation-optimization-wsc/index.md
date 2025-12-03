@@ -23,7 +23,7 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-projects: []
+projects:
+  - simopt
 slides: ''
 ---
-We benchmark leading solvers for constrained simulation-optimization problems at the Winter Simulation Conference.
