@@ -1,0 +1,28 @@
+---
+title: 'Contextual Stochastic Optimization for Omnichannel Multicourier Order Fulfillment under Delivery Time Uncertainty'
+authors:
+  - admin
+  - 'Sikai Cheng'
+  - 'Amira Hijazi'
+  - 'Pascal Van Hentenryck'
+date: '2025-01-01T00:00:00Z'
+publishDate: '2025-01-01T00:00:00Z'
+publication_types: ['2']
+publication: 'Manufacturing & Service Operations Management'
+publication_short: 'MSOM'
+abstract: ''
+summary: ''
+tags: []
+featured: false
+url_pdf: ''
+url_code: ''
+url_dataset: ''
+url_poster: ''
+url_project: ''
+url_slides: ''
+url_source: ''
+url_video: ''
+projects: []
+slides: ''
+---
+We propose a contextual stochastic program that chooses couriers while accounting for delivery-time risk.
