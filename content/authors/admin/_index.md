@@ -74,7 +74,7 @@ email: 'joe.ye@gatech.edu'
 highlight_name: true
 ---
 
-I am a third-year Ph.D. student in Industrial Engineering at Georgia Tech ISyE, , where I am advised by Prof. [Pascal Van Hentenryck](https://sites.gatech.edu/pascal-van-hentenryck/). 
+I am a third-year Ph.D. student in Industrial Engineering at Georgia Tech ISyE, where I am advised by Prof. [Pascal Van Hentenryck](https://sites.gatech.edu/pascal-van-hentenryck/). 
 Prior to joining Georgia Tech, I received my B.S. in Operations Research and Engineering at Cornell University. I was fortunate to work with Profs. [David Shmoys](https://people.orie.cornell.edu/shmoys/), [Shane Henderson](https://www.orie.cornell.edu/faculty-directory/shane-g-henderson), and [David Goldberg](https://www.engineering.cornell.edu/faculty-directory/david-alan-goldberg) at Cornell, as well as Prof. [Eleftheria Kontou](https://publish.illinois.edu/kontou/) at UIUC.
 
 My research interests lie at the intersection of optimization and machine learning, with a particular focus on applications that drive real-world impact in logistics and transportation. My work focuses on *Large-Scale Decision-Making Under Uncertainty* across two primary directions:
