@@ -1,16 +1,10 @@
 {{- define "main" -}}
 
-{{ partial "page_header.html" . }}
-
 {{ $publication_pages := where site.RegularPages "Section" "publication" }}
 {{ $published_pages := where $publication_pages "Params.publication_types" "intersect" (slice "1" "2") }}
 {{ $preprint_pages := where $publication_pages "Params.publication_types" "intersect" (slice "3") }}
 
-<div class="universal-wrapper">
-  <div class="article-style">
-    {{ .Content }}
-  </div>
-
+<div class="universal-wrapper pt-3">
   <div class="article-style mt-5">
     <h2>Publications</h2>
     <p>Peer-reviewed journal and conference papers.</p>
