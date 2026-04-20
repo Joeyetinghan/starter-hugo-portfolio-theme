@@ -47,9 +47,9 @@ item:
     title: Engineering Learning Initiatives Undergraduate Research Award
     url: ''
     certificate_url: ''
-    date_start: '2023-01-01'
-    date_end: ''
-    description: 'Also received in 2022.'
+    date_start: '2022-01-01'
+    date_end: '2023-01-01'
+    description: 'Received in 2022 and 2023.'
   - organization: Tau Beta Pi
     organization_url: ''
     title: Tau Beta Pi Scholarship
