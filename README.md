@@ -12,14 +12,23 @@ It also uses Hugo modules, so Go must be installed for local builds.
 To match production as closely as possible, use Hugo `0.97.3`.
 Much newer Hugo releases can break this older Wowchemy setup.
 
+This repo includes Windows PowerShell wrappers that download and use the
+correct Hugo version automatically on first run:
+
 ```bash
-hugo server
+.\scripts\server.ps1
 ```
 
 Build a production bundle with:
 
 ```bash
-hugo --gc --minify
+.\scripts\build.ps1
+```
+
+You can also forward arbitrary arguments to the pinned Hugo binary with:
+
+```bash
+.\scripts\hugo.ps1 version
 ```
 
 ## Content Structure

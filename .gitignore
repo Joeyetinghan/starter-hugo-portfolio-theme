@@ -9,5 +9,6 @@ node_modules/
 go.sum
 .hugo_build.lock
 .hugo_cache/
+.tools/
 static/uploads/.DS_Store
 .DS_Store
