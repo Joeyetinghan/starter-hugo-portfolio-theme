@@ -9,7 +9,7 @@ date: '2025-10-14T00:00:00Z'
 publishDate: '2025-10-14T00:00:00Z'
 publication_types: ['2']
 publication: 'Manufacturing & Service Operations Management'
-publication_short: 'M&SOM'
+publication_short: 'Manufacturing & Service Operations Management'
 abstract: ''
 summary: 'Data-driven fulfillment decisions under delivery time uncertainty.'
 tags: []
