@@ -3,7 +3,7 @@ title: 'Paratransit Optimization with Constraint Programming: A Case Study in Sa
 authors:
   - 'Liam Jagrowski'
   - 'Kevin Dalmeijer'
-  - admin
+  - 'Tinghan Ye'
   - 'Pascal Van Hentenryck'
 date: '2025-01-01T00:00:00Z'
 publishDate: '2025-01-01T00:00:00Z'

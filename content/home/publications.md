@@ -3,7 +3,7 @@ widget: pages
 headless: true
 active: true
 weight: 20
-title: Selected Publications
+title: Publications
 content:
   page_type: publication
   count: 6

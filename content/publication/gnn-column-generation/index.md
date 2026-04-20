@@ -2,7 +2,7 @@
 title: 'Boosting Column Generation with Graph Neural Networks for Joint Rider Trip Planning and Crew Shift Scheduling'
 authors:
   - 'Jiawei Lu'
-  - admin
+  - 'Tinghan Ye'
   - 'Wenbo Chen'
   - 'Pascal Van Hentenryck'
 date: '2025-01-01T00:00:00Z'

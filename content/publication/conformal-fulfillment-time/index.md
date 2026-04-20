@@ -1,7 +1,7 @@
 ---
 title: 'Conformal Predictive Distributions for Order Fulfillment Time Forecasting'
 authors:
-  - admin
+  - 'Tinghan Ye'
   - 'Amira Hijazi'
   - 'Pascal Van Hentenryck'
 date: '2025-01-01T00:00:00Z'

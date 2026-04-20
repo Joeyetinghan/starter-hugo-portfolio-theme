@@ -1,16 +1,16 @@
 ---
 title: 'Deep Learning-Driven Contextual Stochastic Optimization for Real-Time Order Fulfillment'
 authors:
-  - admin
+  - 'Tinghan Ye'
   - 'Shuaicheng Tong'
   - 'Changkun Guan'
   - 'Beste Basciftci'
   - 'Pascal Van Hentenryck'
 date: '2025-01-01T00:00:00Z'
 publishDate: '2025-01-01T00:00:00Z'
-publication_types: ['1']
-publication: 'NeurIPS 2025 MLxOR Workshop: Mathematical Foundations and Operational Integration of Machine Learning for Uncertainty-Aware Decision-Making'
-publication_short: 'NeurIPS MLxOR 2025'
+publication_types: ['3']
+publication: 'Working paper'
+publication_short: 'Working paper'
 abstract: ''
 summary: 'Deep learning-driven contextual stochastic optimization for real-time order fulfillment.'
 tags: []

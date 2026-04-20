@@ -4,7 +4,7 @@ authors:
   - 'Natthawut Boonsiriphatthanajaroen'
   - 'Rongyi He'
   - 'Litong Liu'
-  - admin
+  - 'Tinghan Ye'
   - 'Shane G. Henderson'
 date: '2024-01-01T00:00:00Z'
 publishDate: '2024-01-01T00:00:00Z'

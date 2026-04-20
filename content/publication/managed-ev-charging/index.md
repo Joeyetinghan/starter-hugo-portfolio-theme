@@ -1,7 +1,7 @@
 ---
 title: 'Managed Residential Electric Vehicle Charging Minimizes Electricity Bills while Meeting Driver and Community Preferences'
 authors:
-  - admin
+  - 'Tinghan Ye'
   - 'Shanshan Liu'
   - 'Eleftheria Kontou'
 date: '2024-01-01T00:00:00Z'

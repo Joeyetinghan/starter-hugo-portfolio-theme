@@ -1,7 +1,7 @@
 ---
 title: 'Cornell University Uses Integer Programming to Optimize Final Exam Scheduling'
 authors:
-  - admin
+  - 'Tinghan Ye'
   - 'Adam S. Jovine'
   - 'Willem van Osselaer'
   - 'Qihan Zhu'
