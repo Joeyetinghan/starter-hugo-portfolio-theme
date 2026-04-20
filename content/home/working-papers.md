@@ -1,7 +1,7 @@
 ---
 widget: pages
 headless: true
-active: true
+active: false
 weight: 30
 title: Preprints & Working Papers
 subtitle: Non-peer-reviewed manuscripts, including arXiv preprints and ongoing work.

@@ -1,7 +1,7 @@
 ---
 widget: pages
 headless: true
-active: true
+active: false
 weight: 20
 title: Publications
 content:
