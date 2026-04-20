@@ -3,8 +3,8 @@ widget: pages
 headless: true
 active: true
 weight: 30
-title: Working Papers
-subtitle: Preprints and work in progress.
+title: Preprints & Working Papers
+subtitle: Non-peer-reviewed manuscripts, including arXiv preprints and ongoing work.
 content:
   page_type: publication
   count: 0
