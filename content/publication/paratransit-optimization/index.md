@@ -11,7 +11,7 @@ publication_types: ['3']
 publication: 'arXiv preprint arXiv:2508.00241'
 publication_short: 'arXiv:2508.00241'
 abstract: ''
-summary: ''
+summary: 'Constraint programming case study for paratransit operations in Savannah, Georgia.'
 tags: []
 featured: false
 url_pdf: 'https://arxiv.org/abs/2508.00241'
@@ -22,6 +22,5 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-projects: []
 slides: ''
 ---

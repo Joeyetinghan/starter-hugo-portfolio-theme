@@ -1,13 +1,12 @@
 ---
 widget: pages
 headless: true
+active: true
 weight: 30
-
-title: 'Research Projects'
-subtitle:
-
+title: Working Papers
+subtitle: Preprints and work in progress.
 content:
-  page_type: projects
+  page_type: publication
   count: 0
   filters:
     author: ''
@@ -16,10 +15,9 @@ content:
     exclude_featured: false
     exclude_future: false
     exclude_past: false
-    publication_type: ''
-  offset: 0
-  order: desc
-
+    publication_type: '3'
+  sort_by: 'Date'
+  sort_ascending: false
 design:
-  view: 2
+  view: 4
 ---

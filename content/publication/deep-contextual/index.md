@@ -12,7 +12,7 @@ publication_types: ['1']
 publication: 'NeurIPS 2025 MLxOR Workshop: Mathematical Foundations and Operational Integration of Machine Learning for Uncertainty-Aware Decision-Making'
 publication_short: 'NeurIPS MLxOR 2025'
 abstract: ''
-summary:
+summary: 'Deep learning-driven contextual stochastic optimization for real-time order fulfillment.'
 tags: []
 featured: false
 url_pdf: 'https://openreview.net/pdf?id=uhF4sYW6Nd'
@@ -23,6 +23,5 @@ url_project: ''
 url_slides: ''
 url_source: ''
 url_video: ''
-projects: []
 slides: ''
 ---

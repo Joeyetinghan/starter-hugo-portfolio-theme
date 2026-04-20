@@ -10,9 +10,9 @@ publication_types: ['1']
 publication: 'International Conference on Computational Logistics'
 publication_short: 'International Conference on Computational Logistics'
 abstract: ''
-summary: ''
+summary: 'Accurate estimation of order fulfillment time under uncertainty for e-commerce logistics.'
 tags: []
-featured: false
+featured: true
 url_pdf: 'https://arxiv.org/abs/2505.17340'
 url_code: ''
 url_dataset: ''
@@ -22,6 +22,21 @@ url_slides: ''
 url_source: ''
 url_video: ''
 slides: ''
-projects:
-  - conformal
 ---
+
+Accurate estimation of order fulfillment time is critical for e-commerce
+logistics, yet traditional rule-based approaches often fail to capture the
+inherent uncertainties in delivery operations. This paper introduces a novel
+framework for distributional forecasting of order fulfillment time, leveraging
+Conformal Predictive Systems and Cross Venn-Abers Predictors, model-agnostic
+techniques that provide rigorous coverage or validity guarantees.
+
+The proposed machine learning methods integrate granular spatiotemporal
+features, capturing fulfillment location and carrier performance dynamics to
+enhance predictive accuracy. Additionally, a cost-sensitive decision rule is
+developed to convert probabilistic forecasts into reliable point predictions.
+Experimental evaluation on a large-scale industrial dataset demonstrates that
+the proposed methods generate competitive distributional forecasts, while
+machine learning-based point predictions significantly outperform the existing
+rule-based system, achieving up to 14% higher prediction accuracy and up to
+75% improvement in identifying late deliveries.
