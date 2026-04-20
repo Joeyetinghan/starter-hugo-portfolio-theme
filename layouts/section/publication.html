@@ -6,6 +6,7 @@
 {{ partial "page_header.html" . }}
 
 {{ $published_pages := where .Pages "Params.publication_types" "intersect" (slice "1" "2") }}
+{{ $pub_type_labels := dict "1" "Conference paper" "2" "Journal article" }}
 
 <div class="universal-wrapper">
   <div class="row">
@@ -31,8 +32,9 @@
             <option value="*">{{ i18n "publication_type" }}</option>
             {{ range $index, $taxonomy := site.Taxonomies.publication_types }}
             {{ if ne $index "3" }}
+            {{ $pub_type_key := printf "%v" $index }}
             <option value=".pubtype-{{ $index }}">
-              {{ i18n (printf "pub_%s" (strings.Replace $index "-" "_")) | default (strings.Title $index) }}
+              {{ index $pub_type_labels $pub_type_key | default (strings.Title $pub_type_key) }}
             </option>
             {{ end }}
             {{ end }}
