@@ -5,8 +5,8 @@ authors:
   - 'Tinghan Ye'
   - 'Wenbo Chen'
   - 'Pascal Van Hentenryck'
-date: '2025-01-01T00:00:00Z'
-publishDate: '2025-01-01T00:00:00Z'
+date: '2025-10-01T00:00:00Z'
+publishDate: '2025-10-01T00:00:00Z'
 publication_types: ['2']
 publication: 'Transportation Research Part E: Logistics and Transportation Review'
 publication_short: 'Transportation Research Part E'

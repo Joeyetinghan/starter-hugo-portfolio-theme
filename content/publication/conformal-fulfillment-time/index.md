@@ -4,8 +4,8 @@ authors:
   - 'Tinghan Ye'
   - 'Amira Hijazi'
   - 'Pascal Van Hentenryck'
-date: '2025-01-01T00:00:00Z'
-publishDate: '2025-01-01T00:00:00Z'
+date: '2025-05-22T00:00:00Z'
+publishDate: '2025-05-22T00:00:00Z'
 publication_types: ['1']
 publication: 'International Conference on Computational Logistics'
 publication_short: 'International Conference on Computational Logistics'

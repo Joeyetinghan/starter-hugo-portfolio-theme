@@ -10,8 +10,8 @@ authors:
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
-date: '2025-01-01T00:00:00Z'
-publishDate: '2025-01-01T00:00:00Z'
+date: '2025-10-29T00:00:00Z'
+publishDate: '2025-10-29T00:00:00Z'
 publication_types: ['3']
 publication: 'arXiv preprint arXiv:2510.25799'
 publication_short: 'arXiv:2510.25799'

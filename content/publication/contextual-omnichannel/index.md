@@ -5,8 +5,8 @@ authors:
   - 'Sikai Cheng'
   - 'Amira Hijazi'
   - 'Pascal Van Hentenryck'
-date: '2025-01-01T00:00:00Z'
-publishDate: '2025-01-01T00:00:00Z'
+date: '2025-10-14T00:00:00Z'
+publishDate: '2025-10-14T00:00:00Z'
 publication_types: ['2']
 publication: 'Manufacturing & Service Operations Management'
 publication_short: 'M&SOM'

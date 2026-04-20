@@ -5,8 +5,8 @@ authors:
   - 'Kevin Dalmeijer'
   - 'Tinghan Ye'
   - 'Pascal Van Hentenryck'
-date: '2025-01-01T00:00:00Z'
-publishDate: '2025-01-01T00:00:00Z'
+date: '2025-08-01T00:00:00Z'
+publishDate: '2025-08-01T00:00:00Z'
 publication_types: ['3']
 publication: 'arXiv preprint arXiv:2508.00241'
 publication_short: 'arXiv:2508.00241'

@@ -4,8 +4,8 @@ authors:
   - 'Tinghan Ye'
   - 'Shanshan Liu'
   - 'Eleftheria Kontou'
-date: '2024-01-01T00:00:00Z'
-publishDate: '2024-01-01T00:00:00Z'
+date: '2024-04-01T00:00:00Z'
+publishDate: '2024-04-01T00:00:00Z'
 publication_types: ['2']
 publication: 'Transport Policy'
 publication_short: 'Transport Policy'

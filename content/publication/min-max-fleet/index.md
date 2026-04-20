@@ -3,8 +3,8 @@ title: 'A Min-Max Theorem for the Minimum Fleet-Size Problem'
 authors:
   - 'Tinghan Ye'
   - 'David B. Shmoys'
-date: '2023-01-01T00:00:00Z'
-publishDate: '2023-01-01T00:00:00Z'
+date: '2023-05-01T00:00:00Z'
+publishDate: '2023-05-01T00:00:00Z'
 publication_types: ['2']
 publication: 'Operations Research Letters'
 publication_short: 'Operations Research Letters'
