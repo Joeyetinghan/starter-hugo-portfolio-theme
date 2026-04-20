@@ -44,7 +44,7 @@ item:
     description: 'Associated with the Cornell final exam scheduling work.'
   - organization: Cornell Engineering
     organization_url: ''
-    title: Learning Initiatives Undergraduate Research Award
+    title: Engineering Learning Initiatives Undergraduate Research Award
     url: ''
     certificate_url: ''
     date_start: '2023-01-01'

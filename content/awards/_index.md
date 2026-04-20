@@ -17,7 +17,7 @@ header:
 
 - **Byron W. Saunders & Allen H. Mogensen Awards for Outstanding Students**. Cornell ORIE.
 - **Finalist, Undergraduate Operations Research Prize**. INFORMS. Associated with [Cornell University Uses Integer Programming to Optimize Final Exam Scheduling](/publication/cornell-exam-scheduling/).
-- **Learning Initiatives Undergraduate Research Award**. Cornell Engineering. Also received in 2022.
+- **Engineering Learning Initiatives Undergraduate Research Award**. Cornell Engineering. Also received in 2022.
 
 ## 2022
 
