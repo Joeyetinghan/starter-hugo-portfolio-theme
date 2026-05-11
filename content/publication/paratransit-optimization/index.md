@@ -5,8 +5,8 @@ authors:
   - 'Kevin Dalmeijer'
   - 'Tinghan Ye'
   - 'Pascal Van Hentenryck'
-date: '2025-08-01T00:00:00Z'
-publishDate: '2025-08-01T00:00:00Z'
+date: '2026-01-01T00:00:00Z'
+publishDate: '2026-01-01T00:00:00Z'
 publication_types: ['1']
 publication: '32nd International Conference on Principles and Practice of Constraint Programming (CP 2026)'
 publication_short: 'CP 2026'
