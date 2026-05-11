@@ -12,9 +12,9 @@ author_notes:
   - 'Equal contribution'
 date: '2025-10-29T00:00:00Z'
 publishDate: '2025-10-29T00:00:00Z'
-publication_types: ['3']
-publication: 'arXiv preprint arXiv:2510.25799'
-publication_short: 'arXiv:2510.25799'
+publication_types: ['1']
+publication: '35th International Joint Conference on Artificial Intelligence (IJCAI-ECAI 2026)'
+publication_short: 'IJCAI-ECAI 2026'
 abstract: ''
 summary: 'An LLM-powered decision aid that captures qualitative preferences for multi-objective selection.'
 tags: []
@@ -23,10 +23,12 @@ url_pdf: 'https://arxiv.org/abs/2510.25799'
 url_code: ''
 url_dataset: ''
 url_poster: ''
-url_project: ''
+url_project: 'https://2026.ijcai.org/'
 url_slides: ''
 url_source: ''
 url_video: ''
 slides: ''
 ---
+Accepted to the 35th International Joint Conference on Artificial Intelligence (IJCAI-ECAI 2026).
+
 We introduce an LLM-powered decision aid that captures qualitative preferences for multi-objective selection.
