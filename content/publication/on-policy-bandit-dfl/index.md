@@ -5,6 +5,9 @@ authors:
   - 'Tinghan Ye'
   - 'Pascal Van Hentenryck'
   - 'Paul Grigas'
+author_notes:
+  - 'Equal contribution'
+  - 'Equal contribution'
 date: '2026-05-31T00:00:00Z'
 publishDate: '2026-05-31T00:00:00Z'
 publication_types: ['3']
