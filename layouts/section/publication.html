@@ -5,8 +5,8 @@
 
 {{ partial "page_header.html" . }}
 
-{{ $published_pages := where .Pages "Params.publication_types" "intersect" (slice "1" "2") }}
-{{ $pub_type_labels := dict "1" "Conference paper" "2" "Journal article" }}
+{{ $publication_pages := .Pages }}
+{{ $pub_type_labels := dict "1" "Conference paper" "2" "Journal article" "3" "Preprint" }}
 
 <div class="universal-wrapper">
   <div class="row">
@@ -16,8 +16,8 @@
       <div class="article-style">{{ . }}</div>
       {{ end }}
 
-      {{/* Array of distinct years for published papers only. */}}
-      {{ range $published_pages.ByDate.Reverse }}
+      {{/* Array of distinct years for all publications. */}}
+      {{ range $publication_pages.ByDate.Reverse }}
         {{ $year := print (.Date.Format "2006") }}
         {{ $.Scratch.SetInMap "years" $year $year }}
       {{ end }}
@@ -31,12 +31,10 @@
           <select class="pub-filters pubtype-select form-control form-control-sm" data-filter-group="pubtype">
             <option value="*">{{ i18n "publication_type" }}</option>
             {{ range $index, $taxonomy := site.Taxonomies.publication_types }}
-            {{ if ne $index "3" }}
             {{ $pub_type_key := printf "%v" $index }}
             <option value=".pubtype-{{ $index }}">
               {{ index $pub_type_labels $pub_type_key | default (strings.Title $pub_type_key) }}
             </option>
-            {{ end }}
             {{ end }}
           </select>
         </div>
@@ -56,7 +54,7 @@
       </div>
 
       <div id="container-publications">
-        {{ range $index, $item := $published_pages.ByDate.Reverse }}
+        {{ range $index, $item := $publication_pages.ByDate.Reverse }}
 
         {{ if .Params.publication_types }}
           {{ $.Scratch.Set "pubtype" (index .Params.publication_types 0) }}

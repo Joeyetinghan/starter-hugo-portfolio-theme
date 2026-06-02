@@ -14,4 +14,4 @@ header:
   caption: ''
   image: ''
 ---
-Peer-reviewed journal and conference papers.
+Peer-reviewed papers and preprints.
